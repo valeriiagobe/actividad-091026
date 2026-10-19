@@ -42,7 +42,8 @@ Presenta el tema, explica por qué es importante y señala el objetivo del traba
 ![alt text](image-1.png)
 
 
-**INFORME IA**
+**INFORME IA.**
 
 
 ![alt text](image-2.png)
+
